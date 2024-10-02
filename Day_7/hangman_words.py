@@ -1,0 +1,20 @@
+hangman_words = [
+    "adventure", "butterfly", "mystery", "galaxy", "elephant", "rainbow", "puzzle", 
+    "whisper", "sunshine", "champion", "fireworks", "mountain", "friendship", 
+    "diamond", "astronaut", "harmony", "treasure", "enchanted", "unicorn", 
+    "explorer", "waterfall", "wizard", "starlight", "pineapple", "wonderland",
+    "chocolate", "moonlight", "carousel", "lighthouse", "charming", "jungle", 
+    "paradise", "volcano", "kaleidoscope", "dragonfly", "butterscotch", "campfire", 
+    "castle", "carousel", "whirlpool", "ocean", "serendipity", "adventure", 
+    "frostbite", "melody", "shadow", "daydream", "illusion", "mystical", 
+    "lullaby", "fantasy", "horizon", "iceberg", "breeze", "cloudburst", 
+    "symphony", "nightfall", "quicksilver", "blossom", "sapphire", "wildflower", 
+    "firefly", "moonstone", "silhouette", "gingerbread", "labyrinth", "storybook", 
+    "phoenix", "thunderstorm", "carnival", "treetop", "midnight", "prism", 
+    "riverbank", "strawberry", "watermelon", "celestial", "boulder", "hurricane", 
+    "emerald", "porcupine", "coconut", "infinity", "constellation", "galactic", 
+    "nebula", "eclipse", "snowflake", "mosaic", "zeppelin", "trekking", "lava", 
+    "phantom", "magnolia", "whirlwind", "giraffe", "sunflower", "spaceship", 
+    "avalon", "firestorm", "tornado", "lightning", "buttercup", "echo", 
+    "cinnamon", "icicle", "journey", "windmill", "whiskers"
+]
