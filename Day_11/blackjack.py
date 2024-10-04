@@ -10,6 +10,8 @@ Players are dealt two cards and can choose to "hit" (take more cards) or "stand"
 The dealer follows set rules, typically hitting until their hand totals 16 or more. 
 The goal is to have a hand higher than the dealer's without going over 21.
 '''
+#this is my own solution
+#ace 11 or 1 is missing
 
 cards = [11,2,3,4,5,6,7,8,9,10,10,10,10]
 
